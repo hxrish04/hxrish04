@@ -2,7 +2,7 @@
 I'm an AI and automation engineer who builds systems that hold up in production. I work on LLM systems, workflow automation, and full-stack apps, with a focus on reliability, auditability, and handling uncertainty instead of guessing. Most of my projects are end to end, from backend pipelines to cloud deployment.
 
 ## 🛠️ Currently
-**AI & Automation Intern @ Blue Diamond Attachments**, building internal tooling and AI enablement a real team uses every day: a QA photo-capture desktop app that's the checkpoint for everything the company ships and sells (~50 parts + 10+ attachments/day, auto-filed into SharePoint), a Microsoft Forms and Power Automate document pipeline, and the company's first internal AI channel.
+**AI & Automation Intern @ Blue Diamond Attachments**, building internal tooling and AI enablement a real team uses every day: a self-updating QA photo-capture desktop app for two departments that's the checkpoint for everything the company ships (50+ orders / 200+ photos a day, auto-filed into SharePoint), a Microsoft Forms and Power Automate document pipeline, and the company's first internal AI channel.
 
 ## 🚀 Featured Work
 
